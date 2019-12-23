@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Contact-React/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/Contact-React/static/js/main.89a4cfe1.chunk.js",
+    "main.js.map": "/Contact-React/static/js/main.89a4cfe1.chunk.js.map",
+    "runtime-main.js": "/Contact-React/static/js/runtime-main.296a9e17.js",
+    "runtime-main.js.map": "/Contact-React/static/js/runtime-main.296a9e17.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Contact-React/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.7bfdf857.chunk.js": "/Contact-React/static/js/2.7bfdf857.chunk.js",
+    "static/js/2.7bfdf857.chunk.js.map": "/Contact-React/static/js/2.7bfdf857.chunk.js.map",
+    "index.html": "/Contact-React/index.html",
+    "precache-manifest.5f8b92bba8d0fe10c1dee713c9567435.js": "/Contact-React/precache-manifest.5f8b92bba8d0fe10c1dee713c9567435.js",
+    "service-worker.js": "/Contact-React/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Contact-React/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.eab24d3c.chunk.css.map": "/Contact-React/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.7bfdf857.chunk.js.LICENSE": "/Contact-React/static/js/2.7bfdf857.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296a9e17.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.7bfdf857.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.89a4cfe1.chunk.js"
+  ]
+}
